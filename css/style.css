@@ -1329,15 +1329,11 @@ input[type="text"] {
 .cert-badge {
   padding: 20px 0;
 }
-.cert-icon {
-  width: 90px;
-  height: 90px;
-  line-height: 86px;
+.cert-icon-img {
+  width: 150px;
+  height: 150px;
   margin: 0 auto 20px auto;
-  border-radius: 50%;
-  border: 2px dashed #eb6c6c;
-  font-size: 38px;
-  color: #eb6c6c;
+  display: block;
 }
 .cert-name {
   font-size: 18px;
